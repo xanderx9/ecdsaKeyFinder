@@ -3,8 +3,8 @@ from os import urandom
 from binarySearch import binarySearch
 from tqdm import tqdm, trange
 import time
-X = int((input("499fdf9e895e719cfd64e67f07d38e3226aa7b63678949e6e49b241a60e823e4:")),16)
-Y = int((input("cac2f6c4b54e855190f044e4a7b3d464464279c27a3f95bcc65f40d403a13f5b:")),16)
+X = int((input("1f6a332d3c5c4f2de2378c012f429cd109ba07d69690c6c701b6bb87860d6640:")),16)
+Y = int((input("f96923e4c4e959430c81a73a62a05609b2bbea22620cefc54a58182b9f2a2ae9:")),16)
 name = 'secp256k1'
 p = 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffefffffc2f
 n = 0xfffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364141
